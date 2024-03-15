@@ -19,6 +19,28 @@ The dataset used for this project comprises various features related to properti
 The dataset is preprocessed to handle missing values, and feature engineering to extract relevant information.
 Exploratory Data Analysis (EDA) is performed on the dataset.
 
+## Tools and Libraries
+
+a.Jupyter Notebook
+
+b. Streamlit
+
+c. GitHub
+
+Libraries
+
+a.Pandas
+
+b.Scikit Learn
+
+c.Numpy
+
+d.Seaborn
+
+e.Matpoltlib
+
+f.Pickle
+
 ## Methodology
 
 The project follows these key steps:
